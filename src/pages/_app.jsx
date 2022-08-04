@@ -1,4 +1,4 @@
-import { ThemeProvider } from "styled-components";
+import { ThemeProvider } from 'styled-components';
 import { GlobalStyle } from '../styles/global-styles';
 import { theme } from '../styles/theme';
 
